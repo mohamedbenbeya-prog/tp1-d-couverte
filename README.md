@@ -1,2 +1,2 @@
-# tp1-d-couverte
+# tp1-découverte
 premier dépôt digital
